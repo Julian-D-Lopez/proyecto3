@@ -1,0 +1,41 @@
+body {  
+ 
+font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background: #f4f4f4;
+
+}
+
+h1 {
+    text-align: center;
+}
+
+.contenedor {
+    display: flex;
+    gap: 20px;
+    margin-top: 20px;
+}
+
+.panel {
+    width: 280px;
+    background: white;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+}
+
+#map {
+    flex: 1;
+    height: 600px;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.info-box {
+    margin-top: 15px;
+    padding: 10px;
+    background: #eef6ff;
+    border-radius: 6px;
+    min-height: 120px;
+}
