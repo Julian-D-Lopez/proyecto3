@@ -1,0 +1,41 @@
+<!DOCTYPE html> 
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Mapa Interactivo Tunjuelito</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+     <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css">
+     <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Mapa Interactivo de Tunjuelito</h1>
+   <div class="contenedor">
+        <div class="panel">
+            <h3>Capas</h3>
+            <label>
+                <input type="checkbox" id="chkLocalidad" checked>
+                Localidad
+            </label>
+            <br>
+            <label>
+                <input type="checkbox" id="chkSitp" checked>
+                Puntos SITP
+            </label>
+
+            <h3>Información</h3>
+            <select id="selectorInfo">
+                <option value="">Seleccione una opción</option>
+                <option value="general">Información general</option>
+            </select>
+
+            <div id="infoBox" class="info-box"></div>
+        </div>
+
+        <div id="map"></div>
+    </div>
+
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script src="{{ url_for('static', filename='app.js') }}"></script>
+</body>
+</html>
