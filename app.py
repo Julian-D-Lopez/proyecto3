@@ -1,4 +1,4 @@
-from flask import Flask, jsonify, render_temqplate
+from flask import Flask, jsonify, render_template
 from backend import cargar_localidad, obtener_sitp, obtener_info
 app = Flask(__name__)
 
