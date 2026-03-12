@@ -1,0 +1,3885 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 23650,
+        "NTRCODIGO": "097A11",
+        "NTRNOMBRE": "Colegio Marco Fidel Suarez",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "KR 25 - CL 52 Sur",
+        "GLOBALID": "779bbc6c-126e-4281-9d70-510ff5e310ac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.137623186,
+          4.57791835284969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 23688,
+        "NTRCODIGO": "140A10",
+        "NTRNOMBRE": "Br. El Carmen",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "CL 52A Sur - KR 31",
+        "GLOBALID": "d7ba564c-e5c6-4dd2-846f-177e65ba9ae4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1377854689999,
+          4.58215894284955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 23743,
+        "NTRCODIGO": "075B10",
+        "NTRNOMBRE": "Colmotores",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. Boyacá - KR 35",
+        "GLOBALID": "ce23c503-02bd-4102-a2b0-3bfdecfaa160"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.143231665,
+          4.58455087584948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 23830,
+        "NTRCODIGO": "589A11",
+        "NTRNOMBRE": "Br. San Carlos",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "KR 17 - CL 55 Sur",
+        "GLOBALID": "c14c7566-cb73-4f12-8707-732de267e968"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1306158909999,
+          4.56423320285018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 23842,
+        "NTRCODIGO": "587A11",
+        "NTRNOMBRE": "Av. Caracas",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "DG 51B Sur - KR 17",
+        "GLOBALID": "3990935d-4481-4478-86a4-18dd7b773b3d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.127147301,
+          4.56680272485009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 23958,
+        "NTRCODIGO": "316A10",
+        "NTRNOMBRE": "Br. Muzú",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. J. Gaitán C. - DG 58 Sur",
+        "GLOBALID": "8838d4bf-f2ac-4511-bc16-8761b26db948"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1434466169999,
+          4.57944734184965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 23966,
+        "NTRCODIGO": "081A11",
+        "NTRNOMBRE": "Br. San Carlos",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "CL 55 Sur - KR 16C",
+        "GLOBALID": "a3ea0e83-6b49-425b-a372-4bc19306a9c7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.129732287,
+          4.56443772085015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 24015,
+        "NTRCODIGO": "505A11",
+        "NTRNOMBRE": "Br. Tunal Sector II",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. Boyacá - KR 24",
+        "GLOBALID": "4bdc8c73-605b-4c63-ac9c-04aefdd4fba9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1400842209999,
+          4.57590037584978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 24021,
+        "NTRCODIGO": "032B10",
+        "NTRNOMBRE": "Urb. La Laguna",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "KR 53 - DG 48 Sur",
+        "GLOBALID": "7ce84e05-e2e7-4730-adb8-cd836ab5d58c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.138603,
+          4.59133199984925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 24113,
+        "NTRCODIGO": "035A10",
+        "NTRNOMBRE": "Br. Fátima",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "CL 50B Sur - KR 34",
+        "GLOBALID": "966dd248-cd0e-4928-a842-85f03cbb3fc0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1362679869999,
+          4.58585734184946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 24126,
+        "NTRCODIGO": "046A10",
+        "NTRNOMBRE": "Estación Alquería",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "Auto Sur - KR 51",
+        "GLOBALID": "595e64ff-e404-4188-8e92-c3e2b27438ba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.134729756,
+          4.59413331984916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 24139,
+        "NTRCODIGO": "121A11",
+        "NTRNOMBRE": "CAI Tunal",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AK 24A - CL 48 Bis Sur",
+        "GLOBALID": "0c7089bb-9435-4339-bf25-cda64e700616"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1300309329999,
+          4.57692049584977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 24155,
+        "NTRCODIGO": "007B10",
+        "NTRNOMBRE": "Br. Samore",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. J. Gaitán C. - CL 50 Sur",
+        "GLOBALID": "868ce354-6a5d-4cbc-b023-bb2ec5616e6d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.135337364,
+          4.58503518884949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 24161,
+        "NTRCODIGO": "246A10",
+        "NTRNOMBRE": "Br. Fátima",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "TV 44 - CL 52A Sur",
+        "GLOBALID": "8a96b50c-0171-4051-b7ce-ad9489a61f6a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.14024,
+          4.58873399984935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 24168,
+        "NTRCODIGO": "122A11",
+        "NTRNOMBRE": "C.C. Ciudad Tunal",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AK 24A - CL 48B Sur",
+        "GLOBALID": "ee765776-dcf2-48a3-a2fc-9e6d502bd54b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1301362259999,
+          4.57709433584976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 24241,
+        "NTRCODIGO": "249A10",
+        "NTRNOMBRE": "Liceo Santa Bernardita",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AK 54 - CL 51 Sur",
+        "GLOBALID": "32fb5495-7533-4a8f-bb96-f9b319170122"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.142119812,
+          4.58988932084931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 24247,
+        "NTRCODIGO": "031B10",
+        "NTRNOMBRE": "Br. Venecia",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AK 53 - DG 46 Sur",
+        "GLOBALID": "c9f7343b-9c48-46ca-99e8-bb22f69995da"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.137954978,
+          4.59352998784922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 24267,
+        "NTRCODIGO": "036A11",
+        "NTRNOMBRE": "Estación Socorro",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. Caracas - KR 15",
+        "GLOBALID": "c6f290d2-2d4a-4414-9209-6d99984d892a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.125622187,
+          4.56438161585015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 24270,
+        "NTRCODIGO": "355A11",
+        "NTRNOMBRE": "Br. Tunjuelito",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AK 16B - CL 57-22 / 38 Sur",
+        "GLOBALID": "71d3227f-810c-4ce3-bc61-049eb5718a6e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.130497767,
+          4.56196755485021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 24500,
+        "NTRCODIGO": "387A10",
+        "NTRNOMBRE": "Br. Isla del Sol",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "CL 67B Sur - KR 64",
+        "GLOBALID": "77419665-8366-4a61-a187-e3c610059a7d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.153829017,
+          4.58860899984939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 24514,
+        "NTRCODIGO": "351A11",
+        "NTRNOMBRE": "IED Marco Fidel Suarez",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "CL 52A Sur - KR 24C",
+        "GLOBALID": "d342e72a-dc7d-4e44-bdbb-20c2b491db12"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1360339999999,
+          4.57760599984974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 24517,
+        "NTRCODIGO": "088A10",
+        "NTRNOMBRE": "Pq. Lagunetas",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. Boyacá - DG 49 Sur",
+        "GLOBALID": "f2d1f75f-e421-4e1e-932d-d6e63d52c22b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1450971849999,
+          4.59161452084928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 24524,
+        "NTRCODIGO": "150A10",
+        "NTRNOMBRE": "Br. Samore",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "KR 28 - CL 49 Sur",
+        "GLOBALID": "d2b037fa-e57a-462e-8106-8c51576293ad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.133130367,
+          4.58244623584958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 24645,
+        "NTRCODIGO": "153A10",
+        "NTRNOMBRE": "Br. El Claret",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "KR 26 - CL 48A",
+        "GLOBALID": "b4ce2d44-1c45-4734-9bf0-1193d4fda159"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.131208439,
+          4.58085228884964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 24673,
+        "NTRCODIGO": "088B10",
+        "NTRNOMBRE": "Pq. Lagunetas",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. Boyacá - DG 49 A Sur",
+        "GLOBALID": "a2648bd2-47d9-4dad-84e0-0c3a5cc91560"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.145096269,
+          4.59138230984926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 24727,
+        "NTRCODIGO": "087A10",
+        "NTRNOMBRE": "Br. Venecia Occidental",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. Boyacá - DG 52A Sur",
+        "GLOBALID": "d7106463-21df-4b79-8569-16f212e1dfb3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.144439416,
+          4.58765484384939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 24749,
+        "NTRCODIGO": "136A10",
+        "NTRNOMBRE": "Br. El Carmen",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "CL 52 A Sur - KR 28",
+        "GLOBALID": "3a5be3ea-6e7c-4d12-b7b1-becd729248f3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.136966891,
+          4.57999655484963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 24779,
+        "NTRCODIGO": "116A11",
+        "NTRNOMBRE": "IED Ciudad de Bogotá Sede B",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. Boyacá - KR 27",
+        "GLOBALID": "af572a32-14da-4a01-a82f-3cc572dcf446"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.140821527,
+          4.57735400284972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 24799,
+        "NTRCODIGO": "224A10",
+        "NTRNOMBRE": "Br. Isla del Sol",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "KR 64 - CL 65 Sur",
+        "GLOBALID": "e302a3e3-514e-48c8-9d9e-a2682f1efcfa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1539658,
+          4.58982584684932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 24801,
+        "NTRCODIGO": "368A11",
+        "NTRNOMBRE": "Tunal Sector I",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "DG 45 Sur - TV 23",
+        "GLOBALID": "f38f66b3-285f-43dc-9564-a16a2f108fe6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.127556012,
+          4.57410555584985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 24812,
+        "NTRCODIGO": "364A11",
+        "NTRNOMBRE": "Br. Abraham Lincoln",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "KR 10 - CL 52 Sur",
+        "GLOBALID": "a6838439-85d4-4693-9a0c-4e23e8d39079"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1232549489999,
+          4.55815198785032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 24830,
+        "NTRCODIGO": "572B11",
+        "NTRNOMBRE": "Br. Tunal Oriental",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "CL 47B Sur - TV 22A",
+        "GLOBALID": "f178750e-4e03-4058-8e41-da35a023b526"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1280908219999,
+          4.57392628384984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 24837,
+        "NTRCODIGO": "079A11",
+        "NTRNOMBRE": "Estación Parque",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. V/cio - CL 55 Sur",
+        "GLOBALID": "21ec09f4-ebda-4327-b057-67af910cbfdd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.133461615,
+          4.56934322384997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 24877,
+        "NTRCODIGO": "013A10",
+        "NTRNOMBRE": "Br. Muzú",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. J. Gaitán C. - CL 56F Sur",
+        "GLOBALID": "18eafe48-3062-45a3-a611-f2578b619a6f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1435,
+          4.5791309998497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 24910,
+        "NTRCODIGO": "144A10",
+        "NTRNOMBRE": "Parroquia La Sagrada Familia",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "KR 28 - DG 49B Sur",
+        "GLOBALID": "803d3775-e009-4330-8e18-e8e7b0fc2fe7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1352416399999,
+          4.58123629284963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 25038,
+        "NTRCODIGO": "167A10",
+        "NTRNOMBRE": "Br. Venecia Occidental",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AK 54 - CL 49 Sur",
+        "GLOBALID": "375ab3d9-17ce-47f0-99e7-a41a29aaa758"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1418956269999,
+          4.59202142884925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 25042,
+        "NTRCODIGO": "608A11",
+        "NTRNOMBRE": "Portal Tunal",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "Portal Tunal",
+        "GLOBALID": "e54b88b4-4c9b-4b37-a33b-cba18b9d714b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.139657,
+          4.57097399984993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 25077,
+        "NTRCODIGO": "091B10",
+        "NTRNOMBRE": "Br. Fátima",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. J. Gaitán C. - CL 49A Sur",
+        "GLOBALID": "e335bd5d-b98d-44bc-8ae6-49c7fbfeb63c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1343329969999,
+          4.58539712584945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 25090,
+        "NTRCODIGO": "267A10",
+        "NTRNOMBRE": "IED Venecia",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "DG 51 Sur - AV. Boyacá",
+        "GLOBALID": "8acceb04-5422-4102-8971-1ce9fbe8f6bd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.144543585,
+          4.5909133488493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 25101,
+        "NTRCODIGO": "050A10",
+        "NTRNOMBRE": "Br. Rincón de Venecia",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. Boyacá - CL 49B Sur",
+        "GLOBALID": "f15a2bfa-267f-49e9-af7a-a74c9114f0c0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1455549189999,
+          4.59205355584926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 25122,
+        "NTRCODIGO": "394A10",
+        "NTRNOMBRE": "Br. Venecia",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "KR 50 - DG 45 Sur",
+        "GLOBALID": "3af84f24-4af7-4f19-94e3-64981d2fed31"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.136771363,
+          4.59374557484922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 25138,
+        "NTRCODIGO": "116B11",
+        "NTRNOMBRE": "IED Ciudad de Bogotá Sede B",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. Boyacá - KR 27",
+        "GLOBALID": "4359158e-a701-44c2-bad6-f8c8cc56b582"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.140917305,
+          4.57756637484974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 25145,
+        "NTRCODIGO": "362A11",
+        "NTRNOMBRE": "CED Rufino José Cuervo",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "CL 52 Sur - KR 11A",
+        "GLOBALID": "823a4ddd-5221-42d6-821b-da317eebcf79"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.124157032,
+          4.55937022585032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 25170,
+        "NTRCODIGO": "098A11",
+        "NTRNOMBRE": "Br. Tunal Oriental",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "KR 25 - CL 55A Sur",
+        "GLOBALID": "4556f88c-bca8-4a3e-92d9-47023b2de2f3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.139908189,
+          4.57688174784976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 25192,
+        "NTRCODIGO": "302B10",
+        "NTRNOMBRE": "Br. Venecia",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "KR 51 - CL  45 Sur",
+        "GLOBALID": "04717f85-f3eb-468b-b7e6-022000266800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.138041742,
+          4.59400230684918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 25220,
+        "NTRCODIGO": "452A11",
+        "NTRNOMBRE": "Br. San Carlos",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "DG 51 Sur - KR 18C",
+        "GLOBALID": "2081f3a5-3ea3-4486-a450-b12481393faa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1316541209999,
+          4.56735050885006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 25313,
+        "NTRCODIGO": "361A11",
+        "NTRNOMBRE": "IED Rufino José Cuervo",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "CL 53A Sur - KR 11A",
+        "GLOBALID": "9e8a2c12-061d-49ef-ab60-8763cf835053"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.125372634,
+          4.55876892385034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 25319,
+        "NTRCODIGO": "496A11",
+        "NTRNOMBRE": "Br. San Carlos Norte",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. Caracas - DG 49A Sur",
+        "GLOBALID": "bb4cbfd0-1aef-43d2-a7e3-02cf1b9a1443"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1264391239999,
+          4.56774259985002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 25327,
+        "NTRCODIGO": "074A11",
+        "NTRNOMBRE": "Hsp. El Tunal",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "KR 20 - CL 47B Sur",
+        "GLOBALID": "3473112b-50d3-46e0-bfad-d9d1d5251cb5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.12864927,
+          4.57179821284988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 25330,
+        "NTRCODIGO": "096A11",
+        "NTRNOMBRE": "Calle 50 Sur",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "KR 25 - CL 52B Sur",
+        "GLOBALID": "db0f5195-d0c8-4dca-9d27-b77735951d9e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.134530301,
+          4.57892593784968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 25344,
+        "NTRCODIGO": "354A11",
+        "NTRNOMBRE": "San Benito",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "KR 16B - CL 58 Sur",
+        "GLOBALID": "c90caec4-f2ba-4c0e-9c4f-e6f29c54f31f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.131687691,
+          4.56087799085026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 25364,
+        "NTRCODIGO": "079B11",
+        "NTRNOMBRE": "Estación Parque",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "KR 19C - CL 55 Sur",
+        "GLOBALID": "f04d7d35-4065-40e4-bab1-fb5b42a50728"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1331211359999,
+          4.56950545184999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 25387,
+        "NTRCODIGO": "353A11",
+        "NTRNOMBRE": "Br. Tunjuelito",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AK 16B - CL 59-34 Sur",
+        "GLOBALID": "740ab20f-a515-41a6-b01c-e78ae5c83267"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1315829549999,
+          4.56080826385028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 25434,
+        "NTRCODIGO": "330A10",
+        "NTRNOMBRE": "Br. San Vicente Ferrer",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "KR 28 - CL 53BS",
+        "GLOBALID": "c5ea535a-459c-4e3b-8c94-812f237bb952"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.138885982,
+          4.57915314184968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 25454,
+        "NTRCODIGO": "593A11",
+        "NTRNOMBRE": "Br. San Carlos",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "KR 19C - CL 56 Sur",
+        "GLOBALID": "73e8ac39-9441-419c-be50-010d24887047"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.136532,
+          4.56755999985008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 25460,
+        "NTRCODIGO": "240A10",
+        "NTRNOMBRE": "Br. Nuevo Muzú",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "DG 51A Sur - KR 59A",
+        "GLOBALID": "2e214288-172f-42c9-b8f5-1de2d7c4d770"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1489268139999,
+          4.58844515084935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 25501,
+        "NTRCODIGO": "026A10",
+        "NTRNOMBRE": "AV. Jorge Gaitán Cortes",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. Boyacá - KR 31",
+        "GLOBALID": "f415a586-1774-488e-8677-331e589bdf0f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.142802,
+          4.5807929998496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 25602,
+        "NTRCODIGO": "145A10",
+        "NTRNOMBRE": "Br. Claret El Carmen",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "DG 51A Sur- KR 29",
+        "GLOBALID": "14253d7b-c649-4d0a-8089-6f87f29af4d8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.135151331,
+          4.58281054384955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 25635,
+        "NTRCODIGO": "365A11",
+        "NTRNOMBRE": "Hospital Tunjuelito II Nivel",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "CL 52 Sur - KR 14",
+        "GLOBALID": "a06bcf32-4433-4b84-91c9-2dac64663461"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1258624989999,
+          4.5627801548502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 25645,
+        "NTRCODIGO": "033B10",
+        "NTRNOMBRE": "Urb. La Laguna",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AK 53 - CL 50 Sur",
+        "GLOBALID": "dfe6c192-0500-45ea-839d-2fbeb1d00139"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.138508004,
+          4.5908063688493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 25648,
+        "NTRCODIGO": "034A10",
+        "NTRNOMBRE": "Br. Fátima",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "CL 51 Sur - KR 34",
+        "GLOBALID": "8ba252cb-c63a-436f-885e-824f63019894"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.136663729,
+          4.58542096884946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 25650,
+        "NTRCODIGO": "239A10",
+        "NTRNOMBRE": "Br. Nuevo Muzú",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "DG 51A Sur - KR 59A",
+        "GLOBALID": "c1364a9e-22b8-4e40-93ea-af8d81986557"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.148837751,
+          4.58839045084939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 25656,
+        "NTRCODIGO": "027A11",
+        "NTRNOMBRE": "Br. El Tunal",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AK 24 - AV. Boyacá",
+        "GLOBALID": "f15fb7c2-2fdb-4e02-b826-878b90a8f121"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1376047059999,
+          4.57404323384983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 25679,
+        "NTRCODIGO": "049B10",
+        "NTRNOMBRE": "Urb. El Claret",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "CL 50B Sur - KR 34",
+        "GLOBALID": "0dd013b3-92ef-46d0-a6f5-3ac5af30b157"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.137025437,
+          4.5873122918494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 25683,
+        "NTRCODIGO": "259A10",
+        "NTRNOMBRE": "Sede Comunal Barrio Venecia",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "DG 49 Sur - KR 52",
+        "GLOBALID": "8be42f14-4f61-4371-b8dc-0d6164bf990e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.140146175,
+          4.59186750584924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 25816,
+        "NTRCODIGO": "091A10",
+        "NTRNOMBRE": "Colegio San José de Cafasso (Br. Fátima)",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. J. Gaitán C. - CL 49B Sur",
+        "GLOBALID": "28f66523-aebd-4177-a2f7-3ae5a520c71c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.134816884,
+          4.58534385984944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 25851,
+        "NTRCODIGO": "082A11",
+        "NTRNOMBRE": "IED San Benito Abad",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "CL 55 Sur - KR 19",
+        "GLOBALID": "19fe04db-de59-4c9f-acca-6180ad307fd3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.133009317,
+          4.56737718985007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 25897,
+        "NTRCODIGO": "241A10",
+        "NTRNOMBRE": "Br. Nuevo Muzú",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "KR 59 - DG 52B Sur",
+        "GLOBALID": "f89fca6b-808d-450d-9922-9b63064fba26"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.147587695,
+          4.58533461384946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 26010,
+        "NTRCODIGO": "139A10",
+        "NTRNOMBRE": "Br. Nuevo Muzú I Sector",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "DG 51 Sur - KR 54",
+        "GLOBALID": "cf321fc0-a9ca-4e39-bb66-69fe287b78a2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.142687355,
+          4.59050075084929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 26013,
+        "NTRCODIGO": "287A10",
+        "NTRNOMBRE": "Br. Claret",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "CL 48C Sur - KR 31",
+        "GLOBALID": "4791d6b5-e66f-4254-a317-3225e44418d1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.133005833,
+          4.58494980284947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 26069,
+        "NTRCODIGO": "033A10",
+        "NTRNOMBRE": "Br. La Laguna",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "KR 53 - DG 49 Sur",
+        "GLOBALID": "62bcc396-cf80-4139-8350-69ac9f8a26a2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1384181619999,
+          4.59131429384926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 26146,
+        "NTRCODIGO": "076A11",
+        "NTRNOMBRE": "Estación Biblioteca",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. V/cio - CL 51 Sur",
+        "GLOBALID": "ac5d1d3c-c003-4244-a6c5-8e498677cf49"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.13004474,
+          4.57068177384994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 26158,
+        "NTRCODIGO": "075A10",
+        "NTRNOMBRE": "Colmotores",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. Boyacá - KR 36A",
+        "GLOBALID": "4e1292ea-d1c5-4775-ad2e-4bfa415dea91"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1434234239999,
+          4.58504778484946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 26176,
+        "NTRCODIGO": "060B11",
+        "NTRNOMBRE": "IED Rafael Uribe",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AK 24 - CL 47A Sur",
+        "GLOBALID": "f24c6b1c-4350-44eb-a63a-2d4240e74e42"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.128712058,
+          4.57820156084973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 26222,
+        "NTRCODIGO": "229A10",
+        "NTRNOMBRE": "IED Isla del Sol",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "CL 67B Sur - KR 63",
+        "GLOBALID": "f1148480-5ab5-4b15-a728-e1d569a807d7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.152123361,
+          4.58970443284935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 26320,
+        "NTRCODIGO": "353B10",
+        "NTRNOMBRE": "Colmotores",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. Boyacá - KR 35",
+        "GLOBALID": "f7f4dd90-088e-4123-b6df-a6d2915d49e7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.143486732,
+          4.58379839884952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 26322,
+        "NTRCODIGO": "236A10",
+        "NTRNOMBRE": "Br. Nuevo Muzú",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "DG 53S - KR 59B",
+        "GLOBALID": "3c5e2d54-fd56-4674-be84-fdad46ae52b5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.148711,
+          4.58481599984949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 26513,
+        "NTRCODIGO": "005A10",
+        "NTRNOMBRE": "Policía Nacional",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. J. Gaitán C. - CL 47A Sur",
+        "GLOBALID": "f0ab46cc-13f6-4b39-a241-9e905f642bb7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.131050451,
+          4.58596082184947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 26588,
+        "NTRCODIGO": "592A11",
+        "NTRNOMBRE": "Pq. Metropolitano El Tunal",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "KR 19C - CL 55 Sur",
+        "GLOBALID": "c1281956-eba6-41a2-9b94-520c4b0b0558"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.135161,
+          4.56872799984999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 26662,
+        "NTRCODIGO": "069A11",
+        "NTRNOMBRE": "CAI Tunal",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "CL 48C Sur - KR 24",
+        "GLOBALID": "b9e5a0ac-f82a-4921-b43a-b49e436ec4ef"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1310030239999,
+          4.5773924358497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 26682,
+        "NTRCODIGO": "363A11",
+        "NTRNOMBRE": "Br. Abraham Lincoln",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "CL 53 Sur - KR 9",
+        "GLOBALID": "6d586298-0e39-4c1a-beec-8222d03b37c5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1236869109999,
+          4.55711341085039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 26708,
+        "NTRCODIGO": "234A10",
+        "NTRNOMBRE": "Rincón de Nuevo Muzú",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "KR 60A - DG 52A Sur",
+        "GLOBALID": "6a75efa6-2300-41e5-90a0-79de8151be21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.149818,
+          4.58560899984944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 26711,
+        "NTRCODIGO": "353A10",
+        "NTRNOMBRE": "Colmotores",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. Boyacá - KR 35",
+        "GLOBALID": "628382c8-3ea7-4365-b850-a37b37ebc389"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.143571994,
+          4.58408367184954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 26776,
+        "NTRCODIGO": "093A10",
+        "NTRNOMBRE": "Br. San Vicente Ferrer",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. Boyacá - KR 32",
+        "GLOBALID": "e567c64d-0f2a-437d-afe2-058d88e85f54"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1425119909999,
+          4.58141339884959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 26786,
+        "NTRCODIGO": "228A10",
+        "NTRNOMBRE": "Hospital Tunjuelito Unidad Isla del Sol",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "CL 67B Sur - KR 63",
+        "GLOBALID": "9482288e-d8a8-465b-9f35-71bbdbdf4cbd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1522111149999,
+          4.58978314884931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 26815,
+        "NTRCODIGO": "579A11",
+        "NTRNOMBRE": "Br. Tunjuelito",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. Caracas - KR 10",
+        "GLOBALID": "10d5bf5d-7de5-428e-b03f-eb49b66866b6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.122965993,
+          4.55851005285032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 26861,
+        "NTRCODIGO": "401A10",
+        "NTRNOMBRE": "Br. Villa Mayor",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "KR 50 - DG 42 Sur",
+        "GLOBALID": "caf37c79-d585-4296-a8cf-ade44f8e25f7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.128473034,
+          4.5883771738494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 26906,
+        "NTRCODIGO": "026B10",
+        "NTRNOMBRE": "AV. Jorge Gaitán Cortes",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. Boyacá - KR 33",
+        "GLOBALID": "e8455c98-e61d-4e5b-a25d-0c2aa81a0c19"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.142914672,
+          4.58111397584961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 27040,
+        "NTRCODIGO": "048A10",
+        "NTRNOMBRE": "Urb. El Claret",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "CL 51 Sur - KR 38",
+        "GLOBALID": "e2dfa771-0fd3-4921-bd42-a864c64edeb8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.138094441,
+          4.5881843228494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 27132,
+        "NTRCODIGO": "524A11",
+        "NTRNOMBRE": "Br. San Carlos",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "KR 16C - CL 56 Sur",
+        "GLOBALID": "6c45f8df-14ce-4bec-bace-d830c3a2b125"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.130639203,
+          4.56321923785019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 27138,
+        "NTRCODIGO": "468A11",
+        "NTRNOMBRE": "Br. Santa Lucía Sur",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "DG 48 Sur - TV 18C",
+        "GLOBALID": "3f68662a-7fd9-4689-ae4c-e548d0993400"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.126879921,
+          4.56992588784998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 27157,
+        "NTRCODIGO": "357A11",
+        "NTRNOMBRE": "Br. Tunjuelito",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "KR 16 - 56-40 Sur",
+        "GLOBALID": "84f75333-d2c0-4c86-95ec-6eaafeb6e5fa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1297305799999,
+          4.56182854285024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 27190,
+        "NTRCODIGO": "006B10",
+        "NTRNOMBRE": "Policía Nacional",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. J. Gaitán C. - CL 47A Sur",
+        "GLOBALID": "39f5b6f8-88e1-4d75-9b50-fcf2e6fbe0f5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.131035821,
+          4.58574976484947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 27203,
+        "NTRCODIGO": "045A10",
+        "NTRNOMBRE": "Estación Venecia",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "Auto Sur - KR 54A",
+        "GLOBALID": "dbbedeb4-23ed-4580-9204-5731852266b6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1414529749999,
+          4.59534257584916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 27207,
+        "NTRCODIGO": "028A11",
+        "NTRNOMBRE": "Pq. El Tunal",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AK 24 - AV. Boyacá",
+        "GLOBALID": "d7a41be0-6725-487a-8078-1e358055c309"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.137473788,
+          4.57388076784983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 27217,
+        "NTRCODIGO": "076B11",
+        "NTRNOMBRE": "Estación Biblioteca",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. V/cio - CL 51 Sur",
+        "GLOBALID": "aec605a0-5e2b-409f-b0a1-4cbfd9243ed0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.129671,
+          4.57076399984996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 27259,
+        "NTRCODIGO": "032A10",
+        "NTRNOMBRE": "Br. La Laguna",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "KR 51 - DG 49 Sur",
+        "GLOBALID": "82fab358-8416-48b8-8823-3484c8303e5f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1384959229999,
+          4.59186760884929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 27268,
+        "NTRCODIGO": "143A10",
+        "NTRNOMBRE": "Urbanización El Claret",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "DG 51A Sur- KR 27",
+        "GLOBALID": "4da541b9-5e38-413f-8320-d6044e92effe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.133865742,
+          4.58150694384962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 27270,
+        "NTRCODIGO": "049A10",
+        "NTRNOMBRE": "Urb. El Claret",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "CL 50B Sur - KR 37",
+        "GLOBALID": "c55a96f4-11e8-4ffa-a177-0df8b5b8f5d9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.137498492,
+          4.58817650884938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 27335,
+        "NTRCODIGO": "120A11",
+        "NTRNOMBRE": "Estación Eléctrica el Tunal",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. Boyacá - AK 24",
+        "GLOBALID": "94beae75-a8d0-47bc-8e86-806d4a52ed6f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1399325799999,
+          4.57358807784987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 27363,
+        "NTRCODIGO": "583A11",
+        "NTRNOMBRE": "Br. San Carlos",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "KR 15 - CL 54 Sur",
+        "GLOBALID": "c325b50e-aa94-424f-a70f-8564e03f66ab"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1289192959999,
+          4.56469447685014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 27382,
+        "NTRCODIGO": "584A11",
+        "NTRNOMBRE": "Br. Abraham Lincoln",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "CL 53 Sur - KR 11A",
+        "GLOBALID": "e78c0f9b-8231-4f65-9a76-eed28b419fe3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.124902439,
+          4.55906944885033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 27443,
+        "NTRCODIGO": "044A10",
+        "NTRNOMBRE": "Estación La Sevillana",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "Auto Sur - KR 60",
+        "GLOBALID": "d6f0b894-5f26-4720-b6a6-3108653eb010"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1488444129999,
+          4.59509509584912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 27602,
+        "NTRCODIGO": "316B10",
+        "NTRNOMBRE": "Br. Muzú",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. J. Gaitán C. - DG 58 Sur",
+        "GLOBALID": "07c51f5c-17c0-43a9-974b-23fc61492d86"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.143100685,
+          4.57983379084966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 27693,
+        "NTRCODIGO": "380A10",
+        "NTRNOMBRE": "Br. Venecia Occidental",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "Auto Sur - AV. Boyacá",
+        "GLOBALID": "d1996ca0-2aef-49df-a001-8501c664fc0b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.145009092,
+          4.59506264384915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 27694,
+        "NTRCODIGO": "318A10",
+        "NTRNOMBRE": "Estación General Santander",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "DG 39A Sur - TV 42",
+        "GLOBALID": "6d3824a4-b124-4c4c-bc10-800818f7b16f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.128496161,
+          4.59265117784923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 27715,
+        "NTRCODIGO": "356A11",
+        "NTRNOMBRE": "Br. San Carlos",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "KR 16B - CL 55A Sur",
+        "GLOBALID": "fb04bc2a-45bb-455a-92a0-894cb3da2811"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.130259136,
+          4.56245940285022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 27772,
+        "NTRCODIGO": "358A11",
+        "NTRNOMBRE": "Br. Tunjuelito",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "CL 54 Sur - KR 15",
+        "GLOBALID": "e18d072c-c676-4cbf-80a5-0efab8c3551e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1280179999999,
+          4.56312099985017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 27786,
+        "NTRCODIGO": "223A10",
+        "NTRNOMBRE": "Pq. Rincón de Venecia",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "KR 62 - DG 50 Sur",
+        "GLOBALID": "ca67854b-3c40-48a2-8617-d87e3b4a830d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.150694489,
+          4.58872057384935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 27805,
+        "NTRCODIGO": "067A11",
+        "NTRNOMBRE": "Hsp. El Tunal",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "CL 48B Sur - KR 21",
+        "GLOBALID": "736ae949-5cf9-4588-b1c6-46121af5594a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.129421142,
+          4.5721244708499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 27824,
+        "NTRCODIGO": "367A11",
+        "NTRNOMBRE": "Tunal Sector I",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "DG 44 Sur - TV 23A",
+        "GLOBALID": "01eee9fe-9f62-466c-9ad5-089003ce6a28"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.128156455,
+          4.57608828784978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 27864,
+        "NTRCODIGO": "078A11",
+        "NTRNOMBRE": "Pq. El Tunal",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "CL 53 Sur - KR 19A",
+        "GLOBALID": "bd015647-99f0-4ecb-8b2e-6a9ba5ee7fba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1314871449999,
+          4.56877624385001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 27930,
+        "NTRCODIGO": "001A10",
+        "NTRNOMBRE": "Pq. Lagunetas",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. Boyacá - DG 50A Sur",
+        "GLOBALID": "5a4d0233-f8f7-4189-97fc-1d703c64b521"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1455579999999,
+          4.5899339998493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 27999,
+        "NTRCODIGO": "250A10",
+        "NTRNOMBRE": "Br. Venecia",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "TV 44 - CL 51B Sur",
+        "GLOBALID": "759493f8-1428-4c95-86ba-43daaab52022"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.139901,
+          4.58907299984934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 28012,
+        "NTRCODIGO": "093B10",
+        "NTRNOMBRE": "Br. San Vicente Ferrer",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. Boyacá - KR 31",
+        "GLOBALID": "18a8b28f-c89c-45bd-94a7-87d4edea2db6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.142100703,
+          4.58034339984965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 28073,
+        "NTRCODIGO": "074B11",
+        "NTRNOMBRE": "Hsp. El Tunal",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "KR 20 Bis - CL 48C Sur",
+        "GLOBALID": "dd982aa9-120b-4e5a-9787-95ff85d3368e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.128927452,
+          4.57172975284993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 28207,
+        "NTRCODIGO": "407A10",
+        "NTRNOMBRE": "Hogar Luis Amigó",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. J. Gaitán C. - CL 58 Sur",
+        "GLOBALID": "e6f08a82-921a-461d-af2d-3e9bf442c908"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.147531,
+          4.57896899984966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 28224,
+        "NTRCODIGO": "067B11",
+        "NTRNOMBRE": "Hsp. El Tunal",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "CL 48C Sur - KR 21",
+        "GLOBALID": "baf5e667-a2d7-4fe2-993c-70e49de7b602"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.129570756,
+          4.5727123718499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 28270,
+        "NTRCODIGO": "087B10",
+        "NTRNOMBRE": "Br. Venecia Occidental",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. Boyacá - DG 52A Sur",
+        "GLOBALID": "b78cbf28-ee1f-42fc-9b24-9e9cce1069ca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.144342759,
+          4.58736876484942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 28273,
+        "NTRCODIGO": "025A11",
+        "NTRNOMBRE": "Br. Tunal Oriental",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AK 24 - CL 52 Sur",
+        "GLOBALID": "6673cbaa-e9df-45c9-9e7b-f83ba23d5721"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.134179505,
+          4.57542448984979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 28458,
+        "NTRCODIGO": "075A11",
+        "NTRNOMBRE": "Br. Tunal Oriental",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "CL 47B Sur - TV 23A",
+        "GLOBALID": "71873da8-03b8-4e42-86fe-a53a7e3e9537"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.129008746,
+          4.57741189584974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 28474,
+        "NTRCODIGO": "001B11",
+        "NTRNOMBRE": "Br. Arborizadora Baja",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. Boyacá - KR 29",
+        "GLOBALID": "8260a840-243e-4354-9435-2ec34524daa1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.141783134,
+          4.57825133984972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 28491,
+        "NTRCODIGO": "242A10",
+        "NTRNOMBRE": "Br. Nuevo Muzú",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "KR 59 - DG 51B Sur",
+        "GLOBALID": "c12c9ecf-ec05-4c26-b827-7ac59d1db5d6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.14819,
+          4.58799699984936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 28532,
+        "NTRCODIGO": "007A12",
+        "NTRNOMBRE": "Escuela de Artillería No. 13",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. Caracas - TV 5D",
+        "GLOBALID": "985b50a7-ef0a-4da3-946b-fab2eca9c499"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.121096721,
+          4.54775656185072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 28545,
+        "NTRCODIGO": "001A11",
+        "NTRNOMBRE": "Br. Arborizadora Baja",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. Boyacá - KR 25",
+        "GLOBALID": "318e23a8-0e17-452e-a722-309654f7708c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1413623079999,
+          4.57743543084971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 28550,
+        "NTRCODIGO": "586A11",
+        "NTRNOMBRE": "Br. San Carlos",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "CL 55 Sur - KR 18",
+        "GLOBALID": "f3842b13-d0c9-4565-b98c-f608c7ccdd5c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.131074,
+          4.56567332685013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 28562,
+        "NTRCODIGO": "068A11",
+        "NTRNOMBRE": "INEM Santiago Pérez",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "CL 48B Sur - KR 23",
+        "GLOBALID": "b5fd0657-259e-4d05-9129-425de0c5103d"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1302751699999,
+          4.57522566284977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 28681,
+        "NTRCODIGO": "011A10",
+        "NTRNOMBRE": "Br. San Vicente",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. J. Gaitán C. - CL 53B Sur",
+        "GLOBALID": "4d4803e4-87d8-4cd8-95e9-96a5c975981e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1405863319999,
+          4.58195416684958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 28727,
+        "NTRCODIGO": "050B10",
+        "NTRNOMBRE": "Br. Rincón de Venecia",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. Boyacá - DG 49 Sur",
+        "GLOBALID": "3bc08a50-907c-4b5d-bcdd-cc1cf6d80e06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.14556011,
+          4.59243902984923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 28731,
+        "NTRCODIGO": "225A10",
+        "NTRNOMBRE": "Br. Isla del Sol",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "KR 64 - CL 65 Sur",
+        "GLOBALID": "cef3740e-f50d-4ab6-b5da-36e33461d5e0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.153864026,
+          4.58981525384931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 28733,
+        "NTRCODIGO": "040A11",
+        "NTRNOMBRE": "Escuela de Artillería No. 13",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. Caracas - TV 5D",
+        "GLOBALID": "b5df75a6-1ee4-4316-a7a4-8a68fc50c219"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.121286888,
+          4.54936644585062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 28804,
+        "NTRCODIGO": "395A10",
+        "NTRNOMBRE": "Br. Venecia",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "DG 47A Sur - KR 51",
+        "GLOBALID": "dc771c0e-a9fb-4d1f-9dfc-1c5a29c32b42"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.138815779,
+          4.59261034984922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 28810,
+        "NTRCODIGO": "467A11",
+        "NTRNOMBRE": "Estación Parque",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. V/cio - CL 55 Sur",
+        "GLOBALID": "ed3fe28f-329a-4e32-b7a4-eea508fb5662"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.135216726,
+          4.56816943985006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 28827,
+        "NTRCODIGO": "149A10",
+        "NTRNOMBRE": "IED Rafael Uribe Uribe",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "CL 48C Sur - KR 28",
+        "GLOBALID": "3b4bf43f-5f0c-4a05-9a86-57b6197da6fb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.132514724,
+          4.58292327284956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 28912,
+        "NTRCODIGO": "013B10",
+        "NTRNOMBRE": "Br. Muzú",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. J. Gaitán C. - AV. Boyacá",
+        "GLOBALID": "168f6d2f-c304-491a-bf6b-b2b4c6a24591"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1426761229999,
+          4.57998363984962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 28916,
+        "NTRCODIGO": "422A11",
+        "NTRNOMBRE": "IED Rufino José Cuervo",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "CL 53 Sur - KR 12A",
+        "GLOBALID": "d55a1609-b1e4-4a1c-bf6b-814dc7a99b56"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.12577012,
+          4.56044215585025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 28924,
+        "NTRCODIGO": "069B11",
+        "NTRNOMBRE": "CAI Tunal",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "CL 48B Sur - KR 24A",
+        "GLOBALID": "6ec94672-c25e-405d-b61b-cfb6dc5572d5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.131136891,
+          4.57773186284973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 28960,
+        "NTRCODIGO": "359A11",
+        "NTRNOMBRE": "Br. Tunjuelito",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "KR 16 - CL 53 Sur",
+        "GLOBALID": "01497259-64d8-46d4-8756-f744917e7773"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1276737809999,
+          4.56393611485016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 28962,
+        "NTRCODIGO": "268A10",
+        "NTRNOMBRE": "Br. La Laguna",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AK 54 - CL 49 Sur",
+        "GLOBALID": "6358f554-b0f6-4d0e-8bfa-47bf14805c0f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.141724169,
+          4.59204216784924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 28996,
+        "NTRCODIGO": "039A11",
+        "NTRNOMBRE": "Br. Molinos I Sector",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. Caracas - CL 51 Sur",
+        "GLOBALID": "f64bf084-7d7b-46c1-989d-f0a30fc61e1a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.121509901,
+          4.55464684885047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 29080,
+        "NTRCODIGO": "418A11",
+        "NTRNOMBRE": "Portal Tunal",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. Boyacá - AK 24",
+        "GLOBALID": "01c5a735-d9a9-4712-aee9-382ad058e6db"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.139560022,
+          4.57204809384988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 29224,
+        "NTRCODIGO": "366A11",
+        "NTRNOMBRE": "Br. Tunal Oriental",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "CL 52F Sur - KR 24A",
+        "GLOBALID": "3273678a-ec08-4012-9fdd-7d6860389306"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.13492,
+          4.57654299984978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 29244,
+        "NTRCODIGO": "034B10",
+        "NTRNOMBRE": "Br. Fátima",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "CL 51 Sur - KR 34",
+        "GLOBALID": "f0884494-2c55-4334-90f0-1708a904b623"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1368301489999,
+          4.58574787284947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 29307,
+        "NTRCODIGO": "012A10",
+        "NTRNOMBRE": "Br. San Vicente",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. J. Gaitán C. - AV. Boyacá",
+        "GLOBALID": "cfd9b744-7628-4125-98bf-29cb65084e56"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.14171542,
+          4.58110200784963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 29341,
+        "NTRCODIGO": "420A11",
+        "NTRNOMBRE": "CAI San Carlos",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "DG 51 Sur - KR 18",
+        "GLOBALID": "9e8ee6d8-54b5-4780-ba4f-4e3eeea6a7a7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.129128615,
+          4.56702250585008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 29347,
+        "NTRCODIGO": "269A10",
+        "NTRNOMBRE": "Br. Venecia",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AK 54 - DG 45 Sur",
+        "GLOBALID": "598723f2-0892-4065-91c7-f0cce5c8d95a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.141199208,
+          4.59443280384919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 29353,
+        "NTRCODIGO": "408A10",
+        "NTRNOMBRE": "Hogar Luis Amigó",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. J. Gaitán C. - CL 58 Sur",
+        "GLOBALID": "75a5f329-a6e1-4070-9012-62f42fece681"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.147776,
+          4.57928899984969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 29468,
+        "NTRCODIGO": "497A11",
+        "NTRNOMBRE": "Br. San Carlos Norte",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. V/cio - KR 19",
+        "GLOBALID": "8692e12d-62a3-466f-aef0-97737d0d1bf4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.127494062,
+          4.56994174584996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 29480,
+        "NTRCODIGO": "003A10",
+        "NTRNOMBRE": "Colmotores",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. Boyacá - KR 36A",
+        "GLOBALID": "f285a742-84f4-4fbe-8116-92fac864dc90"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1444294899999,
+          4.58634878684941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 29695,
+        "NTRCODIGO": "352A11",
+        "NTRNOMBRE": "Br. Tunjuelito",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "CL 54 Sur - KR 12A",
+        "GLOBALID": "c72c82a4-b5be-4ee7-b228-66e9226f25a6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1266245469999,
+          4.56019538685026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 29722,
+        "NTRCODIGO": "148A10",
+        "NTRNOMBRE": "Br. Claret",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "DG 51A Sur- KR 25",
+        "GLOBALID": "24836c47-7c42-4a1d-a7bf-7ae856543b31"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.132390938,
+          4.57990705084961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 29729,
+        "NTRCODIGO": "008A10",
+        "NTRNOMBRE": "Br. Fátima (Colegio La Presentación  Fátima)",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. J. Gaitán C. - DG 50 Sur",
+        "GLOBALID": "caba4304-0c46-4849-ac82-e7e48587f3db"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.138192158,
+          4.58401410784955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 29743,
+        "NTRCODIGO": "006A12",
+        "NTRNOMBRE": "Br. Molinos I Sector",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. Caracas - KR 6",
+        "GLOBALID": "c9e0bcdd-6140-41b5-8330-7f9797697caf"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1213552839999,
+          4.55366000185052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 29753,
+        "NTRCODIGO": "360A11",
+        "NTRNOMBRE": "Br. Tunjuelito",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "CL 52 Sur - KR 16",
+        "GLOBALID": "a6850bb8-6c4f-4f47-8043-be4b7310c935"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1271494119999,
+          4.56540518285012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 29762,
+        "NTRCODIGO": "005B10",
+        "NTRNOMBRE": "Policía Nacional",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. J. Gaitán C. - CL 47 Sur",
+        "GLOBALID": "393d841c-ce69-4a3a-b1e6-d38fe3743b82"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.130555902,
+          4.58607237584946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 29811,
+        "NTRCODIGO": "001B10",
+        "NTRNOMBRE": "Pq. Lagunetas",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. Boyacá - DG 51 Sur",
+        "GLOBALID": "84cfcdc2-9596-4d7d-923a-b27d8567f06a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.145546,
+          4.5904469998493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 29862,
+        "NTRCODIGO": "119B11",
+        "NTRNOMBRE": "Pq. El Tunal",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. Boyacá - AK 24",
+        "GLOBALID": "3fff7fa0-f6aa-4f3a-a247-c56177ef6cea"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.138935069,
+          4.57167932284993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 29951,
+        "NTRCODIGO": "077A11",
+        "NTRNOMBRE": "Estación Biblioteca",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. V/cio - CL 51 Sur",
+        "GLOBALID": "83a286a5-7f22-4f86-ba0c-9ce72364f00b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.130508457,
+          4.56998826284995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 29971,
+        "NTRCODIGO": "026A11",
+        "NTRNOMBRE": "INEM Tunal",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AK 24 - CL 52 Sur",
+        "GLOBALID": "dc45544d-6498-4d55-add0-9cec4f28495f"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.133543945,
+          4.57544697384979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 29996,
+        "NTRCODIGO": "031A10",
+        "NTRNOMBRE": "Br. Venecia",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "KR 53 - DG 45 Sur",
+        "GLOBALID": "b32123c8-7a14-4663-a956-fb22da339791"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.137881707,
+          4.59402900384919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 30049,
+        "NTRCODIGO": "037A11",
+        "NTRNOMBRE": "Estación Consuelo",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. Caracas - KR 12A",
+        "GLOBALID": "b8d478b2-7957-4f29-9e1d-e31ec47d1f84"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1245432429999,
+          4.56124378185028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 30070,
+        "NTRCODIGO": "571A11",
+        "NTRNOMBRE": "Br. Tunjuelito",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "KR 7A - CL 53 Sur",
+        "GLOBALID": "eb26c9f1-203e-48bb-a2e3-c40954da7812"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.123160707,
+          4.55558166485042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 30114,
+        "NTRCODIGO": "505B11",
+        "NTRNOMBRE": "Br. Tunal Sector II",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. Boyacá - KR 24",
+        "GLOBALID": "1fa512df-0bcb-49cd-8275-f23f8adc6091"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1399125849999,
+          4.57547434884979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 30126,
+        "NTRCODIGO": "075B11",
+        "NTRNOMBRE": "Br. Tunal Oriental",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "CL 47B Sur - KR 23B",
+        "GLOBALID": "76ad38db-8197-42ac-add5-89201634dcca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.128833517,
+          4.57670201084977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 30179,
+        "NTRCODIGO": "572A11",
+        "NTRNOMBRE": "Br. Tunal Oriental",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "CL 47B Sur - KR 22",
+        "GLOBALID": "77303b2d-bba9-4884-986a-b672cf28fed7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.128186103,
+          4.57427646584986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 30192,
+        "NTRCODIGO": "222A10",
+        "NTRNOMBRE": "Pq. Rincón de Venecia",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "KR 62 - DG 50 Sur",
+        "GLOBALID": "13169fe8-ec7a-403a-91a3-bd4fdca97055"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.150718474,
+          4.58864272184935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 30194,
+        "NTRCODIGO": "042A11",
+        "NTRNOMBRE": "Br. San Carlos",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "KR 16B - CL 54 Sur",
+        "GLOBALID": "65fe0cab-1354-4a44-8e13-e09263a230a5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1287291089999,
+          4.56428471685013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 30224,
+        "NTRCODIGO": "009A10",
+        "NTRNOMBRE": "Br. El Carmen",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. J. Gaitán C. - DG 49B Sur",
+        "GLOBALID": "0b680b38-827c-4710-a55b-2d2f6e29b694"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.137738698,
+          4.58429829584949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 30248,
+        "NTRCODIGO": "060A11",
+        "NTRNOMBRE": "IED Rafael Uribe",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AK 24 - CL 46 Sur",
+        "GLOBALID": "0e70aa42-9d83-42d3-a8c6-a54b3da59094"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.128073447,
+          4.57850496584967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 30251,
+        "NTRCODIGO": "035B10",
+        "NTRNOMBRE": "Br. Fátima",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "CL 50B Sur - KR 34",
+        "GLOBALID": "54c71c8b-ec0d-496f-8b6b-86300ac05388"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1361120719999,
+          4.58551844784949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 30275,
+        "NTRCODIGO": "068B11",
+        "NTRNOMBRE": "INEM Santiago Pérez",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "CL 48C Sur - KR 23C",
+        "GLOBALID": "7ed7f3ca-ecd9-41c8-b226-bc5eba5acb34"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.130482259,
+          4.57591875184979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 30292,
+        "NTRCODIGO": "302A10",
+        "NTRNOMBRE": "Br. Venecia",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "KR 53 - DG 45B Sur",
+        "GLOBALID": "eb80e8b7-4bb2-4c8a-83ed-fe57d4ae0b53"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.138124905,
+          4.59363779884917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 30361,
+        "NTRCODIGO": "374A11",
+        "NTRNOMBRE": "IED Rafael Uribe Uribe",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "DG 47B Sur - KR 24C",
+        "GLOBALID": "8501a52b-a3e3-4e0d-81c7-49d9c656ca55"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.129788264,
+          4.57902144084969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 30392,
+        "NTRCODIGO": "373B11",
+        "NTRNOMBRE": "Br. Tunal Sector II",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "CL 52B Sur - KR 24",
+        "GLOBALID": "fd961ce9-965b-4ca5-b259-f2e412d99d4b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.133108039,
+          4.57720972684971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 30434,
+        "NTRCODIGO": "070A11",
+        "NTRNOMBRE": "Centro Integral José María Córdoba",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "CL 48B Sur - KR 24D",
+        "GLOBALID": "9daefc9c-ffdf-4a3b-b657-6d03c79fbf34"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.131769143,
+          4.57925923684965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 30456,
+        "NTRCODIGO": "119A11",
+        "NTRNOMBRE": "Pq. El Tunal",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. Boyacá - AK 24",
+        "GLOBALID": "2fc46c91-b030-4822-beaf-8c778b453d93"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.139019753,
+          4.57191329184989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 30558,
+        "NTRCODIGO": "418B11",
+        "NTRNOMBRE": "Portal Tunal",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. Boyacá - KR 19C",
+        "GLOBALID": "26e13f93-2fec-41be-8297-518fdd1be684"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.139453249,
+          4.57169619284991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 30665,
+        "NTRCODIGO": "235A10",
+        "NTRNOMBRE": "Rincón de Nuevo Muzú",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "KR 60A - DG 52A Sur",
+        "GLOBALID": "c23a9913-531b-4ea0-b8e3-1668e4e54fa2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.149747,
+          4.58573499984947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 30730,
+        "NTRCODIGO": "003B10",
+        "NTRNOMBRE": "Colmotores",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. Boyacá - DG 53 Sur",
+        "GLOBALID": "3989e672-644e-46ed-b2ad-e3935ff0645c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.144751126,
+          4.58717674284941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 30756,
+        "NTRCODIGO": "226A10",
+        "NTRNOMBRE": "Br. Santa Rosa Sur",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "CL 62D Sur - KR 63B",
+        "GLOBALID": "171e5a74-ec22-4894-bd80-3beec0d5f926"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.154239655,
+          4.59147037584929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 30758,
+        "NTRCODIGO": "080A11",
+        "NTRNOMBRE": "Br. San Carlos",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "CL 53 Sur - KR 17A",
+        "GLOBALID": "49806bb0-61a1-4fdd-a567-e719c10fdea4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.129142809,
+          4.56624768185008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 30781,
+        "NTRCODIGO": "237A10",
+        "NTRNOMBRE": "Br. Nuevo Muzú",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "DG 53 Sur - KR 59B",
+        "GLOBALID": "43686c08-4796-4b9d-9202-2c1f89dd3e1c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.148512,
+          4.58476099984952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 30789,
+        "NTRCODIGO": "048B10",
+        "NTRNOMBRE": "Urb. El Claret",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "CL 51 Sur - KR 38",
+        "GLOBALID": "771b3f98-216f-459b-9e32-4f21e4fdfa4b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.138533245,
+          4.58906099684934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 30858,
+        "NTRCODIGO": "585A11",
+        "NTRNOMBRE": "Alcaldía Local de Tunjuelito",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "KR 7 - CL 52 Sur",
+        "GLOBALID": "e202e146-b95e-42b3-bbbf-cf00f411c64e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.122047573,
+          4.55565140085043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 30904,
+        "NTRCODIGO": "388A10",
+        "NTRNOMBRE": "Br. Isla del Sol",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "CL 67B Sur - KR 64",
+        "GLOBALID": "f0095252-9982-4274-bdd6-c942f193fe45"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.15369293,
+          4.58859779784934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 30939,
+        "NTRCODIGO": "244A10",
+        "NTRNOMBRE": "Br. Nuevo Muzú II",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "DG 51A Sur - KR 56A",
+        "GLOBALID": "bd29a0fc-0b07-4784-80eb-e577d592953e"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.146092951,
+          4.58955913184932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 31009,
+        "NTRCODIGO": "243A10",
+        "NTRNOMBRE": "Br. Nuevo Muzú I Sector",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "DG 52 Sur - KR 54B",
+        "GLOBALID": "7c776c33-b06c-42e1-a82d-ff2f5a405e5b"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.144038439,
+          4.58830960884935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 31033,
+        "NTRCODIGO": "238A10",
+        "NTRNOMBRE": "Br. Nuevo Muzú",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "KR 59B - DG 52A Sur",
+        "GLOBALID": "fff093fc-0f5d-4cc9-a46e-e988248a1ccb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.148811516,
+          4.58637811684944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 31093,
+        "NTRCODIGO": "007A10",
+        "NTRNOMBRE": "Br. Samore",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. J. Gaitán C. - CL 49B Sur",
+        "GLOBALID": "c1a37737-e5b7-4e6a-8fa0-e47a7df24cd7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1346987759999,
+          4.5851560348495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 31116,
+        "NTRCODIGO": "606A11",
+        "NTRNOMBRE": "Br. Tunjuelito",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "CL 55A Sur - KR 13A",
+        "GLOBALID": "76f43389-39b6-4a38-8576-d88145d47f84"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.12849,
+          4.56193699985024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 31164,
+        "NTRCODIGO": "038A11",
+        "NTRNOMBRE": "Alcaldía Local de Tunjuelito",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. Caracas - KR 8",
+        "GLOBALID": "bdc4f28f-5f23-4bd2-9d83-575e1c1fe7d2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.121599653,
+          4.55605940485042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 31220,
+        "NTRCODIGO": "245A10",
+        "NTRNOMBRE": "Br. Venecia",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "DG 51 Sur - KR 56B BIS",
+        "GLOBALID": "e18c68fb-f496-4fe2-9903-46bc4a8e8bb8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1466801,
+          4.58942132584932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 31267,
+        "NTRCODIGO": "010A10",
+        "NTRNOMBRE": "Br. San Vicente",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "AV. J. Gaitán C. - CL 54 Sur",
+        "GLOBALID": "656d25ec-117b-4801-9867-4e0aa3866378"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.140230222,
+          4.58238585884958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 31276,
+        "NTRCODIGO": "251A10",
+        "NTRNOMBRE": "Br. Venecia",
+        "NTRTIPO": 4,
+        "NTRMODO": 2,
+        "NTRMTRANSP": 6,
+        "NTRDIRECCION": "DG 49A Sur - KR 53",
+        "GLOBALID": "58e744bc-8815-40ee-a43c-a0685e8ada11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.140789003,
+          4.59300786084922
+        ]
+      }
+    }
+  ]
+}

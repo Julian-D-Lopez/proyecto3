@@ -1,6 +1,8 @@
+# app.py
 from flask import Flask, jsonify, render_template
 from backend import cargar_localidad, obtener_sitp, obtener_info
-app = Flask(__name__)
+
+app = Flask(__name__, static_folder="static", template_folder="templates")
 
 @app.route("/")
 def inicio():
@@ -17,5 +19,6 @@ def api_sitp():
 @app.route("/api/info")
 def api_info():
     return jsonify(obtener_info())
+
 if __name__ == "__main__":
     app.run(debug=True)
